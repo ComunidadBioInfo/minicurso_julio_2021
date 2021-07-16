@@ -8,8 +8,12 @@ Instructores:
 - [Marcel Ramos](https://cunyisph.org/team/marcel-ramos/)
 - [Leonardo Collado Torres](https://lcolladotor.github.io/es/) 
 
+## Materiales
 
-Para descargar este material puedes dar click en el botón **Code** y selecciona la opción **Download zip**. Si lo prefieres, puedes clonar el repositorio en tu computadora usando git clone desde tu terminal.
+- [Introducción a las paqueterías de Bioconductor](https://docs.google.com/presentation/d/13JZEuUCvzxH9HsBMAfXBxC7TexGfSQcaPWHu4GngU58/edit#slide=id.p)
+- [biocthis: crea paquetes de Bioconductor](https://speakerdeck.com/lcolladotor/biocthis-conectar2021)
+
+## Pre-requisitos
 
 Para esta sesión necesitas instalar los siguientes paquetes de R:
 
