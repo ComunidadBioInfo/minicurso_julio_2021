@@ -12,6 +12,8 @@ Instructores:
 
 - [Introducción a las paqueterías de Bioconductor](https://docs.google.com/presentation/d/13JZEuUCvzxH9HsBMAfXBxC7TexGfSQcaPWHu4GngU58/edit#slide=id.p)
 - [biocthis: crea paquetes de Bioconductor](https://speakerdeck.com/lcolladotor/biocthis-conectar2021)
+- [Paquete de ejemplo cdsbthis](https://github.com/lcolladotor/cdsbthis/)
+- [Página muestra de cdsbthis](https://lcolladotor.github.io/cdsbthis/)
 
 ## Pre-requisitos
 
